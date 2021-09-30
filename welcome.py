@@ -1,2 +1,2 @@
-print("test is ok")
-print("start")
+name=$*
+echo "Welcome,$name"
